@@ -1,3 +1,3 @@
 # Libby Web
 
-Unofficial web app for Libby
+Unofficial web app for Libby (https://libbyapp.com), an app for streaming audiobooks checked out from your local library.
