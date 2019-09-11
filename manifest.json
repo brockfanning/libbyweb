@@ -1,0 +1,15 @@
+{
+    "name": "libbyweb.brockfanning",
+    "description": "Unofficial web app for Libby",
+    "architecture": "all",
+    "title": "Libby Web",
+    "hooks": {
+        "libbyweb": {
+            "apparmor": "libbyweb.apparmor",
+            "desktop":  "libbyweb.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Brock Fanning <brock@fanning.email>",
+    "framework" : "ubuntu-sdk-16.04"
+}

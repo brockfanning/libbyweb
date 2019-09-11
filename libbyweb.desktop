@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Libby Web
+Exec=webapp-container --webappUrlPatterns=https?://libbyapp.com/* https://libbyapp.com
+Icon=logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

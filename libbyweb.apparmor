@@ -1,0 +1,15 @@
+{
+    "template": "ubuntu-webapp",
+
+    
+    "policy_groups": [
+        "networking",
+        "webview",
+        "audio",
+        "video",
+        "keep-display-on"
+    ],
+    
+
+    "policy_version": 16.04
+}
